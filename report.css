@@ -1,0 +1,27 @@
+.img-siteMap{ /* image of site map */
+    width: 700px; 
+    height: 600px; 
+    background-image: url(newImages/site\ map.jpeg);
+    background-size: 100%;
+}
+
+.img-wireFrame{ /* image of wire frame */
+    width: 700px; 
+    height: 600px; 
+    background-image: url(newImages/wire\ frame.jpeg);
+    background-size: 100%;
+}
+
+.img-Validator1{ /* image of validator 2 */
+    width: 700px; 
+    height: 600px; 
+    background-image: url(newImages/validator_1.png);
+    background-size: 100%;
+}
+
+.img-Validator2{ /* image of validator 1 */
+    width: 700px; 
+    height: 600px; 
+    background-image: url(newImages/validator_2.png);
+    background-size: 100%;
+}

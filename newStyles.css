@@ -1,0 +1,119 @@
+body { /*background colour*/
+    background: linear-gradient(to bottom, #707070, #a7a7a7, #cccccc);
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    color: white; /* Set text color to white for better visibility on the sunset background */
+}
+  
+
+body {/* style for the whole web */
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+}
+  
+header {/* styling for header section*/
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* CSS code below is primarily for Nav bar*/
+
+nav {/* sets padding and style of nav bar */
+    background-color: #eee;
+    padding: 10px;
+}
+  
+nav ul {/* styling for unordered lists */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+  
+nav li {/* nav margin */
+    margin-right: 15px;
+}
+  
+nav a {/* navigation bar */
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px 15px;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav a:hover {/* button hover */
+    background-color: #333;
+    color: #ddd;
+}
+  
+section {
+    display: none; /* Initially hide all sections */
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+
+/* CSS code Above is primarily for Nav bar*/
+
+
+button:hover {/* hovers over nav bar */
+    background-color: #555;
+}
+
+.img-graduation {/* graduation image  https://www.youtube.com/watch?v=_w6N_nplmAw&t=171s */ 
+    width: 700px;
+    height: 400px;
+    background-image: url(newImages/graduation.jpg);
+    background-size: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-office {/* office image  https://www.youtube.com/watch?v=_w6N_nplmAw&t=171s */ 
+    width: 700px;
+    height: 400px;
+    background-image: url(newImages/office\(2028\).jpg);
+    background-size: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-celerbration {/* celerbration image  https://www.youtube.com/watch?v=_w6N_nplmAw&t=171s */ 
+    width: 700px;
+    height: 400px;
+    background-image: url(newImages/celerbration\(2030\).jpg);
+    background-size: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-success {/* success image  https://www.youtube.com/watch?v=_w6N_nplmAw&t=171s */ 
+    width: 700px;
+    height: 400px;
+    background-image: url(newImages/success\(2032\).jpg);
+    background-size: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-studio {/* studio image  https://www.youtube.com/watch?v=_w6N_nplmAw&t=171s */ 
+    width: 700px;
+    height: 400px;
+    background-image: url(newImages/studio\(2034\).jpg);
+    background-size: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

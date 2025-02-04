@@ -1,5 +1,3 @@
 # MyPortfolio.github.io
 
-this is my first ever made website i create during my first year of first term. 
-the website goes over what will happen to my future per five years and what i would end up doing.
-the report goes over everything
+This is my first website, which I built during my first year and first term. The website is a personal project in which I examine and chronicle my five-year vision, including my objectives, desires, and the measures I want to take to attain them. The report includes everything from my academic and professional goals to personal development and interests that I intend to pursue. It has specific sections on the abilities I intend to acquire, the milestones I hope to achieve, and the hurdles I expect along the road. By making this website, I not only developed my web development abilities, but I also took the opportunity to focus about my future and establish a clear path for myself. This project was a fantastic learning experience that combined technical abilities like as HTML, CSS, and JavaScript with introspection and planning, making it a significant and memorable milestone in my career. 
